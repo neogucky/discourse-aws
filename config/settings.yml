@@ -1,7 +1,7 @@
 plugins:
-  onesignal_push_enabled:
+  aws_push_enabled:
     default: false
-  onesignal_app_id:
+  aws_app_id:
     default: ''
-  onesignal_rest_api_key:
+  aws_rest_api_key:
     default: ''
